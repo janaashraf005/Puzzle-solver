@@ -1,6 +1,6 @@
 # AI Puzzle Solver — Greedy Best-First Search
 
-This project implements an AI agent to solve the classic **8-puzzle problem** using the **Greedy Best-First Search** algorithm guided by the **Manhattan distance heuristic**.
+This project implements an AI agent to solve the classic **puzzle problem** using the **Greedy Best-First Search** algorithm guided by the **Manhattan distance heuristic**.
 
 The implementation is done in **Python**, using `NumPy` for grid state representation and `heapq` for priority queue management.
 
