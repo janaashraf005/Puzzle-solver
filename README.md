@@ -15,8 +15,8 @@ The **puzzle** consists of a 3x3 grid with eight numbered tiles and one blank sp
 Initial State:
 
 1 2 3
-4 5 6
-7 8
+4 6 5
+7   8
 
 Goal State:
 
