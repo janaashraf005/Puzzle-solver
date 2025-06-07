@@ -1,4 +1,4 @@
-# AI Puzzle Solver — Greedy Best-First Search
+# Puzzle Solver — Greedy Best-First Search
 
 This project implements an AI agent to solve the classic **puzzle problem** using the **Greedy Best-First Search** algorithm guided by the **Manhattan distance heuristic**.
 
@@ -14,15 +14,19 @@ The **puzzle** consists of a 3x3 grid with eight numbered tiles and one blank sp
 
 Initial State:
 
-1 2 3
-4 6 5
+<pre> 
+1 3 2
+4 5 6
 7   8
+</pre> 
 
 Goal State:
 
+<pre> 
 1 2 3
 4 5 6
-7 8
+7 8 
+</pre>
 
 ## Features
 
